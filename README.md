@@ -14,7 +14,7 @@ A passionate *Full Stack Java Developer* 🚀 and *Tech Enthusiast* 💡 from In
 
 ## 📫 How to Reach Me
 - 🌐 Website: [Vaibhav](https://vaibhavjondhale.netlify.app/)  
-- 💼 LinkedIn: [vaibhav Jondhale](https://www.linkedin.com/in/vaibhav-jondhale-893227380/)  
+- 💼 LinkedIn: [vaibhav Jondhale](https://www.linkedin.com/in/vaibhav-jondhale-901a83402/)  
 
 ---
 
