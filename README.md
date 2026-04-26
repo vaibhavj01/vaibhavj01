@@ -1,5 +1,4 @@
 # Hi, I'm vaibhav jondhale 👋
-
 A passionate *Full Stack Java Developer* 🚀 and *Tech Enthusiast* 💡 from India.
 
 ---
